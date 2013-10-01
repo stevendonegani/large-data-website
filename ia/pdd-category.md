@@ -2,10 +2,10 @@
 
 ## 1. High
 
-- list of allergies
-- Allergy Prevention methods
-- Epipen tutorial
-- Search
+- types/allergies
+- symptoms 
+- tutorial
+- safety/prevention	
 
 ## 2. Medium
 

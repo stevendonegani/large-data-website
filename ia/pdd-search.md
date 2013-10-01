@@ -2,16 +2,14 @@
 
 ## 1. High
 
-- Search list
-- Link to list of allergies
-- Categories
-- Search
+- results of search
+- links to searched topics
+- similar search results
 
 ## 2. Medium
 
 - Website branding, logo
 - Primary navigation
-- types
 
 ## 3. Low
 
