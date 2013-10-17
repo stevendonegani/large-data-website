@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+   <url>
+
+	<!--
+		<loc> is the full URL for the page on your site, including domain REQUIRED
+		-->
+		
+      <loc>http://allergies.com/</loc>
+	  
+	  <!-- THE last modified date OPTIONAL
+	  -->
+
+      <lastmod>2005-01-01</lastmod>
+	  
+	  <!--
+	  	change frequency: suggest how often GOogle should spider the page
+		- never
+		- yearly
+		- monthly
+		- daily
+		- hourly
+		- always
+		
+		-->
+
+      <changefreq>monthly</changefreq>
+	  
+	  <!--
+	  Priority: how important this page is to your website
+	  Between 0.1 and 1.0
+	  0.1 - Least
+	  1.0 - Most
+	  OPTIONAL
+	  default: 0.5
+	  -->
+
+      <priority>0.8</priority>
+
+   </url>
+   
+   	
+
+</urlset> 
