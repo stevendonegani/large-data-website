@@ -45,6 +45,10 @@ Main Styles
 	
 }
 
+.li {
+	text-decoration: none;
+}
+
 .navigation {
 	background-color:#AB1053;	
 	text-align: left;
@@ -133,7 +137,7 @@ Main Styles
 
 #sidebar-wrapper {
 	float: left;
-	width:29%;
+	width:15%;
 	padding:10px;
 	border-right:1px solid #ccc;
 	
@@ -271,8 +275,13 @@ background:url(../images/resize.png) repeat scroll 0% 0% transparent;
 	#logo{ background:url(../images/logo3.png) no-repeat; height:41px; width:150px; margin-left:auto; margin-right:auto;}
 }
 @media screen and (min-width: 0px) and (max-width: 319px) {
-	#Wrapper{ width: 100%; margin:0px auto;}
-	header{ text-align:center;}
+	#Wrapper{ 
+		width: 100%; 
+		margin:0px auto;
+	}
+	
+	header{
+		 text-align:center;}
 	#navigation{ height:190px;}
 	.navigation a{ float:none; font-size:13px; padding:0px 0px; width:100%; text-align:center; text-transform:uppercase;}
 	#contents{
