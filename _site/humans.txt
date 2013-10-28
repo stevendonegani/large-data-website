@@ -1,0 +1,28 @@
+# humanstxt.org
+
+# TEAM
+
+Designer & Developer: Steven Donegani <stevendonegani@gmail.com>
+Site: http://stevendonegani.com
+GitHub: https://github.com/stevendonegani
+Twitter: @stevendonegani
+Location: Nepean, Canada
+
+---
+
+# THANKS
+
+
+---
+
+# TECHNOLOGY
+
+## Software
+
+- Sublime Text 3 (with Vintageous)
+- Git + GitHub
+- Markdown
+
+## Hosting
+
+- Github <http://github.io/stevendonegani

@@ -1,0 +1,9 @@
+#http://robotstxt.org
+
+# Show search engines where to find our sitemap
+Sitemap: http://allergies.com/sitemap.xml
+
+User-Agent *
+
+#Block images from showing in search results
+#disallow: /img
